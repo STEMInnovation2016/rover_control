@@ -14,7 +14,7 @@
 
 // Declare L298N Dual H-Bridge Motor Controller directly since there is not a library to load.
 
-int overallSpeed = 170;
+int overallSpeed = 150;
 
 // Motor 1
 int dir1PinA = 2;
